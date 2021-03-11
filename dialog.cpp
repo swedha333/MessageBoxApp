@@ -17,7 +17,7 @@ Dialog::~Dialog()
 
 void Dialog::on_pushButton_clicked()
 {
-    QMessageBox::information(this,"Samathmika 212218205044","THIS IS INFORMATION BOX");
+    QMessageBox::information(this,"Abishekk 212218104007","THIS IS INFORMATION BOX");
 }
 
 void Dialog::on_pushButton_2_clicked()
